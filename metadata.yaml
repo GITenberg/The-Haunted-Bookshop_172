@@ -1,0 +1,33 @@
+_repo: The-Haunted-Bookshop_172
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Morley, Christopher
+    alias: Morley, Christopher Darlington
+    birthdate: 1890
+    deathdate: 1957
+    gutenberg_agent_id: '109'
+    url: http://www.gutenberg.org/2009/agents/109
+    wikipedia: http://en.wikipedia.org/wiki/Christopher_Morley
+description: "The Haunted Bookshop is the 1919 novel by Christopher Morley, now in\
+  \ the public domain in the United States.\n\n\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Bibliomania
+gutenberg_issued: '1994-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '172'
+  wikidata: Q7738999
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Brooklyn (New York, N.Y.) -- Fiction'
+- !lcsh 'Booksellers and bookselling -- Fiction'
+- !lcsh 'Mystery and detective stories'
+- !lcc 'PS'
+- GITenberg
+title: The Haunted Bookshop
+url: http://www.gutenberg.org/ebooks/172
+wikipedia:
+- https://en.wikipedia.org/wiki/The_Haunted_Bookshop
